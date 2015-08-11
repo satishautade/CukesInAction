@@ -1,0 +1,6 @@
+#ignore following
+.gitignore.swp
+.idea/
+Gemfile.lock
+*.log
+*.xml
